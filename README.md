@@ -1,0 +1,3 @@
+# chat-app
+a simple chat app using socket.io
+Please ignore the "needs work" comment on every file uploaded...
